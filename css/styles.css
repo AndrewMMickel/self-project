@@ -13,3 +13,15 @@ html, body {
     background-color: black;
     color: green;
 }
+
+#img {
+    height:100px;
+    width:100px;
+}
+
+#weapon-slots {
+    padding: 2px;
+    border: 1px solid darkgreen;
+    background-color: rgb(54, 53, 53);
+    color: rgb(0, 189, 0);
+}
