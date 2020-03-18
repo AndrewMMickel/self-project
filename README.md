@@ -24,7 +24,7 @@ _email andrew.m.mickel@gmail.com if there are any concerns_
 
 _Made from scratch using html and css._
 
-[selfproject](/C:/Users/drago/Desktop/Projects/self-project/self-project.html)
+[selfproject](https://andrewmmickel.github.io/self-project/)
 
 ### License
 
